@@ -1,4 +1,4 @@
-# BTC Stealer
+# OpenCV Projects
 <p align="center">
   <a href="https://github.com/Callumgm/BTC-Stealer/graphs/commit-activity">
     <img src="https://img.shields.io/badge/maintained-no-critical?style=flat-square" alt="Maintained No" />
